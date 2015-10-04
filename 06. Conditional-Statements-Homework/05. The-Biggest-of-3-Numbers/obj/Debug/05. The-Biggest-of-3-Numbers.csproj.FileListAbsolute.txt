@@ -1,0 +1,5 @@
+E:\My Documents\Programming Basics - май 2015\6. Conditional-Statements - 13 юни 2015\6. Conditional-Statements-Home\05. The-Biggest-of-3-Numbers\bin\Debug\_05.The_Biggest_of_3_Numbers.exe.config
+E:\My Documents\Programming Basics - май 2015\6. Conditional-Statements - 13 юни 2015\6. Conditional-Statements-Home\05. The-Biggest-of-3-Numbers\bin\Debug\_05.The_Biggest_of_3_Numbers.exe
+E:\My Documents\Programming Basics - май 2015\6. Conditional-Statements - 13 юни 2015\6. Conditional-Statements-Home\05. The-Biggest-of-3-Numbers\bin\Debug\_05.The_Biggest_of_3_Numbers.pdb
+E:\My Documents\Programming Basics - май 2015\6. Conditional-Statements - 13 юни 2015\6. Conditional-Statements-Home\05. The-Biggest-of-3-Numbers\obj\Debug\_05.The_Biggest_of_3_Numbers.exe
+E:\My Documents\Programming Basics - май 2015\6. Conditional-Statements - 13 юни 2015\6. Conditional-Statements-Home\05. The-Biggest-of-3-Numbers\obj\Debug\_05.The_Biggest_of_3_Numbers.pdb

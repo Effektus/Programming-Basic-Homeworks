@@ -1,0 +1,6 @@
+E:\My Documents\Programming Basics - май 2015\16 май 2015\Intro-Programming-Homework\05. Print-My-Name\bin\Debug\_05.Print_My_Name.exe.config
+E:\My Documents\Programming Basics - май 2015\16 май 2015\Intro-Programming-Homework\05. Print-My-Name\bin\Debug\_05.Print_My_Name.exe
+E:\My Documents\Programming Basics - май 2015\16 май 2015\Intro-Programming-Homework\05. Print-My-Name\bin\Debug\_05.Print_My_Name.pdb
+E:\My Documents\Programming Basics - май 2015\16 май 2015\Intro-Programming-Homework\05. Print-My-Name\obj\Debug\_05.Print_My_Name.exe
+E:\My Documents\Programming Basics - май 2015\16 май 2015\Intro-Programming-Homework\05. Print-My-Name\obj\Debug\_05.Print_My_Name.pdb
+E:\My Documents\Programming Basics - май 2015\16 май 2015\Intro-Programming-Homework\05. Print-My-Name\obj\Debug\05. Print-My-Name.csprojResolveAssemblyReference.cache

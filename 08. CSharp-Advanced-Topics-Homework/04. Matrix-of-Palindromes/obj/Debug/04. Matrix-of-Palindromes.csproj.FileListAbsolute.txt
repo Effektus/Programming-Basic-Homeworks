@@ -1,0 +1,6 @@
+E:\My Documents\Programming Basics - май 2015\8. CSharp-Advanced-Topics - 27 юни 2015\8. CSharp-Advanced-Topics-Home\04. Matrix-of-Palindromes\bin\Debug\_04.Matrix_of_Palindromes.exe.config
+E:\My Documents\Programming Basics - май 2015\8. CSharp-Advanced-Topics - 27 юни 2015\8. CSharp-Advanced-Topics-Home\04. Matrix-of-Palindromes\bin\Debug\_04.Matrix_of_Palindromes.exe
+E:\My Documents\Programming Basics - май 2015\8. CSharp-Advanced-Topics - 27 юни 2015\8. CSharp-Advanced-Topics-Home\04. Matrix-of-Palindromes\bin\Debug\_04.Matrix_of_Palindromes.pdb
+E:\My Documents\Programming Basics - май 2015\8. CSharp-Advanced-Topics - 27 юни 2015\8. CSharp-Advanced-Topics-Home\04. Matrix-of-Palindromes\obj\Debug\_04.Matrix_of_Palindromes.exe
+E:\My Documents\Programming Basics - май 2015\8. CSharp-Advanced-Topics - 27 юни 2015\8. CSharp-Advanced-Topics-Home\04. Matrix-of-Palindromes\obj\Debug\_04.Matrix_of_Palindromes.pdb
+E:\My Documents\Programming Basics - май 2015\8. CSharp-Advanced-Topics - 27 юни 2015\8. CSharp-Advanced-Topics-Home\04. Matrix-of-Palindromes\obj\Debug\04. Matrix-of-Palindromes.csprojResolveAssemblyReference.cache

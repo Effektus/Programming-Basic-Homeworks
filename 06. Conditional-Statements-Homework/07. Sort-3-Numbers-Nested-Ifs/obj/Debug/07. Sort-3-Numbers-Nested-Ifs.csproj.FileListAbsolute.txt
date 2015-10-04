@@ -1,0 +1,6 @@
+E:\My Documents\Programming Basics - май 2015\6. Conditional-Statements - 13 юни 2015\6. Conditional-Statements-Home\07. Sort-3-Numbers-Nested-Ifs\bin\Debug\_07.Sort_3_Numbers_Nested_Ifs.exe.config
+E:\My Documents\Programming Basics - май 2015\6. Conditional-Statements - 13 юни 2015\6. Conditional-Statements-Home\07. Sort-3-Numbers-Nested-Ifs\bin\Debug\_07.Sort_3_Numbers_Nested_Ifs.exe
+E:\My Documents\Programming Basics - май 2015\6. Conditional-Statements - 13 юни 2015\6. Conditional-Statements-Home\07. Sort-3-Numbers-Nested-Ifs\bin\Debug\_07.Sort_3_Numbers_Nested_Ifs.pdb
+E:\My Documents\Programming Basics - май 2015\6. Conditional-Statements - 13 юни 2015\6. Conditional-Statements-Home\07. Sort-3-Numbers-Nested-Ifs\obj\Debug\07. Sort-3-Numbers-Nested-Ifs.csprojResolveAssemblyReference.cache
+E:\My Documents\Programming Basics - май 2015\6. Conditional-Statements - 13 юни 2015\6. Conditional-Statements-Home\07. Sort-3-Numbers-Nested-Ifs\obj\Debug\_07.Sort_3_Numbers_Nested_Ifs.exe
+E:\My Documents\Programming Basics - май 2015\6. Conditional-Statements - 13 юни 2015\6. Conditional-Statements-Home\07. Sort-3-Numbers-Nested-Ifs\obj\Debug\_07.Sort_3_Numbers_Nested_Ifs.pdb

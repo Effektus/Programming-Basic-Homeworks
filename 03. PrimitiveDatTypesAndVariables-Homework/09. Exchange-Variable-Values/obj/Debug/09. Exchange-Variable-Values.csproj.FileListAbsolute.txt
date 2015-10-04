@@ -1,0 +1,12 @@
+E:\My Documents\Programming Basics - май 2015\22 май 2015\PrimitiveDatTypesAndVariables-Homework\09. Exchange-Variable-Values\bin\Debug\_09.Exchange_Variable_Values.exe.config
+E:\My Documents\Programming Basics - май 2015\22 май 2015\PrimitiveDatTypesAndVariables-Homework\09. Exchange-Variable-Values\bin\Debug\_09.Exchange_Variable_Values.exe
+E:\My Documents\Programming Basics - май 2015\22 май 2015\PrimitiveDatTypesAndVariables-Homework\09. Exchange-Variable-Values\bin\Debug\_09.Exchange_Variable_Values.pdb
+E:\My Documents\Programming Basics - май 2015\22 май 2015\PrimitiveDatTypesAndVariables-Homework\09. Exchange-Variable-Values\obj\Debug\09. Exchange-Variable-Values.csprojResolveAssemblyReference.cache
+E:\My Documents\Programming Basics - май 2015\22 май 2015\PrimitiveDatTypesAndVariables-Homework\09. Exchange-Variable-Values\obj\Debug\_09.Exchange_Variable_Values.exe
+E:\My Documents\Programming Basics - май 2015\22 май 2015\PrimitiveDatTypesAndVariables-Homework\09. Exchange-Variable-Values\obj\Debug\_09.Exchange_Variable_Values.pdb
+D:\Documents\Programming Basics - май 2015\03. Primitive-Data-Types-and-Variables - 22 май 2015\PrimitiveDatTypesAndVariables-Homework\09. Exchange-Variable-Values\bin\Debug\_09.Exchange_Variable_Values.exe.config
+D:\Documents\Programming Basics - май 2015\03. Primitive-Data-Types-and-Variables - 22 май 2015\PrimitiveDatTypesAndVariables-Homework\09. Exchange-Variable-Values\obj\Debug\_09.Exchange_Variable_Values.exe
+D:\Documents\Programming Basics - май 2015\03. Primitive-Data-Types-and-Variables - 22 май 2015\PrimitiveDatTypesAndVariables-Homework\09. Exchange-Variable-Values\obj\Debug\_09.Exchange_Variable_Values.pdb
+D:\Documents\Programming Basics - май 2015\03. Primitive-Data-Types-and-Variables - 22 май 2015\PrimitiveDatTypesAndVariables-Homework\09. Exchange-Variable-Values\bin\Debug\_09.Exchange_Variable_Values.exe
+D:\Documents\Programming Basics - май 2015\03. Primitive-Data-Types-and-Variables - 22 май 2015\PrimitiveDatTypesAndVariables-Homework\09. Exchange-Variable-Values\bin\Debug\_09.Exchange_Variable_Values.pdb
+D:\Documents\Programming Basics - май 2015\03. Primitive-Data-Types-and-Variables - 22 май 2015\PrimitiveDatTypesAndVariables-Homework\09. Exchange-Variable-Values\obj\Debug\09. Exchange-Variable-Values.csprojResolveAssemblyReference.cache

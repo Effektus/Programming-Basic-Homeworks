@@ -1,0 +1,6 @@
+D:\Documents\Programming Basics - май 2015\03. Primitive-Data-Types-and-Variables\PrimitiveDatTypesAndVariables-Homework\16. HalfSumEffektus\bin\Debug\_16.HalfSumEffektus.exe.config
+D:\Documents\Programming Basics - май 2015\03. Primitive-Data-Types-and-Variables\PrimitiveDatTypesAndVariables-Homework\16. HalfSumEffektus\bin\Debug\_16.HalfSumEffektus.exe
+D:\Documents\Programming Basics - май 2015\03. Primitive-Data-Types-and-Variables\PrimitiveDatTypesAndVariables-Homework\16. HalfSumEffektus\bin\Debug\_16.HalfSumEffektus.pdb
+D:\Documents\Programming Basics - май 2015\03. Primitive-Data-Types-and-Variables\PrimitiveDatTypesAndVariables-Homework\16. HalfSumEffektus\obj\Debug\16. HalfSumEffektus.csprojResolveAssemblyReference.cache
+D:\Documents\Programming Basics - май 2015\03. Primitive-Data-Types-and-Variables\PrimitiveDatTypesAndVariables-Homework\16. HalfSumEffektus\obj\Debug\_16.HalfSumEffektus.exe
+D:\Documents\Programming Basics - май 2015\03. Primitive-Data-Types-and-Variables\PrimitiveDatTypesAndVariables-Homework\16. HalfSumEffektus\obj\Debug\_16.HalfSumEffektus.pdb

@@ -1,0 +1,6 @@
+E:\My Documents\Programming Basics - май 2015\8. CSharp-Advanced-Topics - 27 юни 2015\8. CSharp-Advanced-Topics-Home\03. Longest-Area-in-Array\bin\Debug\_03.Longest_Area_in_Array.exe.config
+E:\My Documents\Programming Basics - май 2015\8. CSharp-Advanced-Topics - 27 юни 2015\8. CSharp-Advanced-Topics-Home\03. Longest-Area-in-Array\bin\Debug\_03.Longest_Area_in_Array.exe
+E:\My Documents\Programming Basics - май 2015\8. CSharp-Advanced-Topics - 27 юни 2015\8. CSharp-Advanced-Topics-Home\03. Longest-Area-in-Array\bin\Debug\_03.Longest_Area_in_Array.pdb
+E:\My Documents\Programming Basics - май 2015\8. CSharp-Advanced-Topics - 27 юни 2015\8. CSharp-Advanced-Topics-Home\03. Longest-Area-in-Array\obj\Debug\_03.Longest_Area_in_Array.exe
+E:\My Documents\Programming Basics - май 2015\8. CSharp-Advanced-Topics - 27 юни 2015\8. CSharp-Advanced-Topics-Home\03. Longest-Area-in-Array\obj\Debug\_03.Longest_Area_in_Array.pdb
+E:\My Documents\Programming Basics - май 2015\8. CSharp-Advanced-Topics - 27 юни 2015\8. CSharp-Advanced-Topics-Home\03. Longest-Area-in-Array\obj\Debug\03. Longest-Area-in-Array.csprojResolveAssemblyReference.cache

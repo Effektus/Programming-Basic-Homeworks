@@ -1,0 +1,5 @@
+E:\My Documents\Programming Basics - май 2015\29 май 2015\04. Console-Input-Output-Homework\05. Formatting-Numbers\bin\Debug\_05.Formatting_Numbers.exe.config
+E:\My Documents\Programming Basics - май 2015\29 май 2015\04. Console-Input-Output-Homework\05. Formatting-Numbers\bin\Debug\_05.Formatting_Numbers.exe
+E:\My Documents\Programming Basics - май 2015\29 май 2015\04. Console-Input-Output-Homework\05. Formatting-Numbers\bin\Debug\_05.Formatting_Numbers.pdb
+E:\My Documents\Programming Basics - май 2015\29 май 2015\04. Console-Input-Output-Homework\05. Formatting-Numbers\obj\Debug\_05.Formatting_Numbers.exe
+E:\My Documents\Programming Basics - май 2015\29 май 2015\04. Console-Input-Output-Homework\05. Formatting-Numbers\obj\Debug\_05.Formatting_Numbers.pdb

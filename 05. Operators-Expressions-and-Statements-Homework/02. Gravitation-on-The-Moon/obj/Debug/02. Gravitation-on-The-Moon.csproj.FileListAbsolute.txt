@@ -1,0 +1,6 @@
+E:\My Documents\Programming Basics - май 2015\05. 06 юни 2015\05. Homework\02. Gravitation-on-The-Moon\bin\Debug\_02.Gravitation_on_The_Moon.exe.config
+E:\My Documents\Programming Basics - май 2015\05. 06 юни 2015\05. Homework\02. Gravitation-on-The-Moon\bin\Debug\_02.Gravitation_on_The_Moon.exe
+E:\My Documents\Programming Basics - май 2015\05. 06 юни 2015\05. Homework\02. Gravitation-on-The-Moon\bin\Debug\_02.Gravitation_on_The_Moon.pdb
+E:\My Documents\Programming Basics - май 2015\05. 06 юни 2015\05. Homework\02. Gravitation-on-The-Moon\obj\Debug\02. Gravitation-on-The-Moon.csprojResolveAssemblyReference.cache
+E:\My Documents\Programming Basics - май 2015\05. 06 юни 2015\05. Homework\02. Gravitation-on-The-Moon\obj\Debug\_02.Gravitation_on_The_Moon.exe
+E:\My Documents\Programming Basics - май 2015\05. 06 юни 2015\05. Homework\02. Gravitation-on-The-Moon\obj\Debug\_02.Gravitation_on_The_Moon.pdb

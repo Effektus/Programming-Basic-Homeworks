@@ -1,0 +1,10 @@
+E:\My Documents\Programming Basics - май 2015\22 май 2015\PrimitiveDatTypesAndVariables-Homework\06. Strings-and-Objects\bin\Debug\_06.Strings_and_Objects.exe.config
+E:\My Documents\Programming Basics - май 2015\22 май 2015\PrimitiveDatTypesAndVariables-Homework\06. Strings-and-Objects\bin\Debug\_06.Strings_and_Objects.exe
+E:\My Documents\Programming Basics - май 2015\22 май 2015\PrimitiveDatTypesAndVariables-Homework\06. Strings-and-Objects\bin\Debug\_06.Strings_and_Objects.pdb
+E:\My Documents\Programming Basics - май 2015\22 май 2015\PrimitiveDatTypesAndVariables-Homework\06. Strings-and-Objects\obj\Debug\_06.Strings_and_Objects.exe
+E:\My Documents\Programming Basics - май 2015\22 май 2015\PrimitiveDatTypesAndVariables-Homework\06. Strings-and-Objects\obj\Debug\_06.Strings_and_Objects.pdb
+D:\Documents\Programming Basics - май 2015\03. Primitive-Data-Types-and-Variables - 22 май 2015\PrimitiveDatTypesAndVariables-Homework\06. Strings-and-Objects\bin\Debug\_06.Strings_and_Objects.exe.config
+D:\Documents\Programming Basics - май 2015\03. Primitive-Data-Types-and-Variables - 22 май 2015\PrimitiveDatTypesAndVariables-Homework\06. Strings-and-Objects\bin\Debug\_06.Strings_and_Objects.exe
+D:\Documents\Programming Basics - май 2015\03. Primitive-Data-Types-and-Variables - 22 май 2015\PrimitiveDatTypesAndVariables-Homework\06. Strings-and-Objects\bin\Debug\_06.Strings_and_Objects.pdb
+D:\Documents\Programming Basics - май 2015\03. Primitive-Data-Types-and-Variables - 22 май 2015\PrimitiveDatTypesAndVariables-Homework\06. Strings-and-Objects\obj\Debug\_06.Strings_and_Objects.exe
+D:\Documents\Programming Basics - май 2015\03. Primitive-Data-Types-and-Variables - 22 май 2015\PrimitiveDatTypesAndVariables-Homework\06. Strings-and-Objects\obj\Debug\_06.Strings_and_Objects.pdb

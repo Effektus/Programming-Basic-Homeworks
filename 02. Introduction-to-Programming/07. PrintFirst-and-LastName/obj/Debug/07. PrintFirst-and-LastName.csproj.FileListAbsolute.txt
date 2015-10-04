@@ -1,0 +1,6 @@
+E:\My Documents\Programming Basics - май 2015\16 май 2015\Intro-Programming-Homework\07. PrintFirst-and-LastName\bin\Debug\_07.PrintFirst_and_LastName.exe.config
+E:\My Documents\Programming Basics - май 2015\16 май 2015\Intro-Programming-Homework\07. PrintFirst-and-LastName\bin\Debug\_07.PrintFirst_and_LastName.exe
+E:\My Documents\Programming Basics - май 2015\16 май 2015\Intro-Programming-Homework\07. PrintFirst-and-LastName\bin\Debug\_07.PrintFirst_and_LastName.pdb
+E:\My Documents\Programming Basics - май 2015\16 май 2015\Intro-Programming-Homework\07. PrintFirst-and-LastName\obj\Debug\07. PrintFirst-and-LastName.csprojResolveAssemblyReference.cache
+E:\My Documents\Programming Basics - май 2015\16 май 2015\Intro-Programming-Homework\07. PrintFirst-and-LastName\obj\Debug\_07.PrintFirst_and_LastName.exe
+E:\My Documents\Programming Basics - май 2015\16 май 2015\Intro-Programming-Homework\07. PrintFirst-and-LastName\obj\Debug\_07.PrintFirst_and_LastName.pdb

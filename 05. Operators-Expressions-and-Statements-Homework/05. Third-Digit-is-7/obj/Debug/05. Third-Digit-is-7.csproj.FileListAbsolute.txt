@@ -1,0 +1,6 @@
+E:\My Documents\Programming Basics - май 2015\05. 06 юни 2015\05. Homework\05. Third-Digit-is-7\bin\Debug\_05.Third_Digit_is_7.exe.config
+E:\My Documents\Programming Basics - май 2015\05. 06 юни 2015\05. Homework\05. Third-Digit-is-7\bin\Debug\_05.Third_Digit_is_7.exe
+E:\My Documents\Programming Basics - май 2015\05. 06 юни 2015\05. Homework\05. Third-Digit-is-7\bin\Debug\_05.Third_Digit_is_7.pdb
+E:\My Documents\Programming Basics - май 2015\05. 06 юни 2015\05. Homework\05. Third-Digit-is-7\obj\Debug\05. Third-Digit-is-7.csprojResolveAssemblyReference.cache
+E:\My Documents\Programming Basics - май 2015\05. 06 юни 2015\05. Homework\05. Third-Digit-is-7\obj\Debug\_05.Third_Digit_is_7.exe
+E:\My Documents\Programming Basics - май 2015\05. 06 юни 2015\05. Homework\05. Third-Digit-is-7\obj\Debug\_05.Third_Digit_is_7.pdb

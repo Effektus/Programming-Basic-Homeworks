@@ -1,0 +1,9 @@
+E:\My Documents\Programming Basics - май 2015\29 май 2015\04. Console-Input-Output-Homework\04. Number-Comparer\bin\Debug\_04.Number_Comparer.exe.config
+E:\My Documents\Programming Basics - май 2015\29 май 2015\04. Console-Input-Output-Homework\04. Number-Comparer\bin\Debug\_04.Number_Comparer.exe
+E:\My Documents\Programming Basics - май 2015\29 май 2015\04. Console-Input-Output-Homework\04. Number-Comparer\bin\Debug\_04.Number_Comparer.pdb
+E:\My Documents\Programming Basics - май 2015\29 май 2015\04. Console-Input-Output-Homework\04. Number-Comparer\obj\Debug\04. Number-Comparer.csprojResolveAssemblyReference.cache
+E:\My Documents\Programming Basics - май 2015\29 май 2015\04. Console-Input-Output-Homework\04. Number-Comparer\obj\Debug\_04.Number_Comparer.exe
+E:\My Documents\Programming Basics - май 2015\29 май 2015\04. Console-Input-Output-Homework\04. Number-Comparer\obj\Debug\_04.Number_Comparer.pdb
+E:\My Documents\Programming Basics - май 2015\4. Console-Input-Output - 29 май 2015\04. Console-Input-Output-Homework\04. Number-Comparer\bin\Debug\_04.Number_Comparer.exe.config
+E:\My Documents\Programming Basics - май 2015\4. Console-Input-Output - 29 май 2015\04. Console-Input-Output-Homework\04. Number-Comparer\obj\Debug\_04.Number_Comparer.exe
+E:\My Documents\Programming Basics - май 2015\4. Console-Input-Output - 29 май 2015\04. Console-Input-Output-Homework\04. Number-Comparer\obj\Debug\_04.Number_Comparer.pdb

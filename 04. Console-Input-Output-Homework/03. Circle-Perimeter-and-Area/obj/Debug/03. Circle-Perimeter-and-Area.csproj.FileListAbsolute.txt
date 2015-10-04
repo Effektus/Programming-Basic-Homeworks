@@ -1,0 +1,12 @@
+E:\My Documents\Programming Basics - май 2015\29 май 2015\04. Console-Input-Output-Homework\03. Circle-Perimeter-and-Area\bin\Debug\_03.Circle_Perimeter_and_Area.exe.config
+E:\My Documents\Programming Basics - май 2015\29 май 2015\04. Console-Input-Output-Homework\03. Circle-Perimeter-and-Area\bin\Debug\_03.Circle_Perimeter_and_Area.exe
+E:\My Documents\Programming Basics - май 2015\29 май 2015\04. Console-Input-Output-Homework\03. Circle-Perimeter-and-Area\bin\Debug\_03.Circle_Perimeter_and_Area.pdb
+E:\My Documents\Programming Basics - май 2015\29 май 2015\04. Console-Input-Output-Homework\03. Circle-Perimeter-and-Area\obj\Debug\03. Circle-Perimeter-and-Area.csprojResolveAssemblyReference.cache
+E:\My Documents\Programming Basics - май 2015\29 май 2015\04. Console-Input-Output-Homework\03. Circle-Perimeter-and-Area\obj\Debug\_03.Circle_Perimeter_and_Area.exe
+E:\My Documents\Programming Basics - май 2015\29 май 2015\04. Console-Input-Output-Homework\03. Circle-Perimeter-and-Area\obj\Debug\_03.Circle_Perimeter_and_Area.pdb
+E:\My Documents\Programming Basics - май 2015\04. 29 май 2015\04. Console-Input-Output-Homework\03. Circle-Perimeter-and-Area\bin\Debug\_03.Circle_Perimeter_and_Area.exe.config
+E:\My Documents\Programming Basics - май 2015\04. 29 май 2015\04. Console-Input-Output-Homework\03. Circle-Perimeter-and-Area\obj\Debug\_03.Circle_Perimeter_and_Area.exe
+E:\My Documents\Programming Basics - май 2015\04. 29 май 2015\04. Console-Input-Output-Homework\03. Circle-Perimeter-and-Area\obj\Debug\_03.Circle_Perimeter_and_Area.pdb
+E:\My Documents\Programming Basics - май 2015\4. Console-Input-Output - 29 май 2015\04. Console-Input-Output-Homework\03. Circle-Perimeter-and-Area\bin\Debug\_03.Circle_Perimeter_and_Area.exe.config
+E:\My Documents\Programming Basics - май 2015\4. Console-Input-Output - 29 май 2015\04. Console-Input-Output-Homework\03. Circle-Perimeter-and-Area\obj\Debug\_03.Circle_Perimeter_and_Area.exe
+E:\My Documents\Programming Basics - май 2015\4. Console-Input-Output - 29 май 2015\04. Console-Input-Output-Homework\03. Circle-Perimeter-and-Area\obj\Debug\_03.Circle_Perimeter_and_Area.pdb

@@ -1,0 +1,6 @@
+E:\My Documents\Programming Basics - май 2015\05. 06 юни 2015\05. Homework\07. Point-in-a-Circle\bin\Debug\_07.Point_in_a_Circle.exe.config
+E:\My Documents\Programming Basics - май 2015\05. 06 юни 2015\05. Homework\07. Point-in-a-Circle\bin\Debug\_07.Point_in_a_Circle.exe
+E:\My Documents\Programming Basics - май 2015\05. 06 юни 2015\05. Homework\07. Point-in-a-Circle\bin\Debug\_07.Point_in_a_Circle.pdb
+E:\My Documents\Programming Basics - май 2015\05. 06 юни 2015\05. Homework\07. Point-in-a-Circle\obj\Debug\07. Point-in-a-Circle.csprojResolveAssemblyReference.cache
+E:\My Documents\Programming Basics - май 2015\05. 06 юни 2015\05. Homework\07. Point-in-a-Circle\obj\Debug\_07.Point_in_a_Circle.exe
+E:\My Documents\Programming Basics - май 2015\05. 06 юни 2015\05. Homework\07. Point-in-a-Circle\obj\Debug\_07.Point_in_a_Circle.pdb

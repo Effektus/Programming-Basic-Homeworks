@@ -1,0 +1,11 @@
+E:\My Documents\Programming Basics - май 2015\16 май 2015\Intro-Programming-Homework\08. Square-Root\bin\Debug\_08.Square_Root.exe.config
+E:\My Documents\Programming Basics - май 2015\16 май 2015\Intro-Programming-Homework\08. Square-Root\bin\Debug\_08.Square_Root.exe
+E:\My Documents\Programming Basics - май 2015\16 май 2015\Intro-Programming-Homework\08. Square-Root\bin\Debug\_08.Square_Root.pdb
+E:\My Documents\Programming Basics - май 2015\16 май 2015\Intro-Programming-Homework\08. Square-Root\obj\Debug\_08.Square_Root.exe
+E:\My Documents\Programming Basics - май 2015\16 май 2015\Intro-Programming-Homework\08. Square-Root\obj\Debug\_08.Square_Root.pdb
+D:\Documents\Programming Basics - май 2015\02. Introduction-to-Programming - 16 май 2015\Intro-Programming-Homework\08. Square-Root\bin\Debug\_08.Square_Root.exe.config
+D:\Documents\Programming Basics - май 2015\02. Introduction-to-Programming - 16 май 2015\Intro-Programming-Homework\08. Square-Root\obj\Debug\_08.Square_Root.exe
+D:\Documents\Programming Basics - май 2015\02. Introduction-to-Programming - 16 май 2015\Intro-Programming-Homework\08. Square-Root\obj\Debug\_08.Square_Root.pdb
+D:\Documents\Programming Basics - май 2015\02. Introduction-to-Programming - 16 май 2015\Intro-Programming-Homework\08. Square-Root\bin\Debug\_08.Square_Root.exe
+D:\Documents\Programming Basics - май 2015\02. Introduction-to-Programming - 16 май 2015\Intro-Programming-Homework\08. Square-Root\bin\Debug\_08.Square_Root.pdb
+D:\Documents\Programming Basics - май 2015\02. Introduction-to-Programming - 16 май 2015\Intro-Programming-Homework\08. Square-Root\obj\Debug\08. Square-Root.csprojResolveAssemblyReference.cache

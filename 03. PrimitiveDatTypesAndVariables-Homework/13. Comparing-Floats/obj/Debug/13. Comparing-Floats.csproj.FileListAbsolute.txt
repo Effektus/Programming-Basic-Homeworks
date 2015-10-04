@@ -1,0 +1,15 @@
+E:\My Documents\Programming Basics - май 2015\22 май 2015\PrimitiveDatTypesAndVariables-Homework\13. Comparing-Floats\bin\Debug\_13.Comparing_Floats.exe.config
+E:\My Documents\Programming Basics - май 2015\22 май 2015\PrimitiveDatTypesAndVariables-Homework\13. Comparing-Floats\obj\Debug\13. Comparing-Floats.csprojResolveAssemblyReference.cache
+E:\My Documents\Programming Basics - май 2015\22 май 2015\PrimitiveDatTypesAndVariables-Homework\13. Comparing-Floats\bin\Debug\_13.Comparing_Floats.exe
+E:\My Documents\Programming Basics - май 2015\22 май 2015\PrimitiveDatTypesAndVariables-Homework\13. Comparing-Floats\bin\Debug\_13.Comparing_Floats.pdb
+E:\My Documents\Programming Basics - май 2015\22 май 2015\PrimitiveDatTypesAndVariables-Homework\13. Comparing-Floats\obj\Debug\_13.Comparing_Floats.exe
+E:\My Documents\Programming Basics - май 2015\22 май 2015\PrimitiveDatTypesAndVariables-Homework\13. Comparing-Floats\obj\Debug\_13.Comparing_Floats.pdb
+E:\My Documents\Programming Basics - май 2015\3. Primitive-Data-Types-and-Variables - 22 май 2015\PrimitiveDatTypesAndVariables-Homework\13. Comparing-Floats\bin\Debug\_13.Comparing_Floats.exe.config
+E:\My Documents\Programming Basics - май 2015\3. Primitive-Data-Types-and-Variables - 22 май 2015\PrimitiveDatTypesAndVariables-Homework\13. Comparing-Floats\obj\Debug\_13.Comparing_Floats.exe
+E:\My Documents\Programming Basics - май 2015\3. Primitive-Data-Types-and-Variables - 22 май 2015\PrimitiveDatTypesAndVariables-Homework\13. Comparing-Floats\obj\Debug\_13.Comparing_Floats.pdb
+D:\Documents\Programming Basics - май 2015\03. Primitive-Data-Types-and-Variables - 22 май 2015\PrimitiveDatTypesAndVariables-Homework\13. Comparing-Floats\bin\Debug\_13.Comparing_Floats.exe.config
+D:\Documents\Programming Basics - май 2015\03. Primitive-Data-Types-and-Variables - 22 май 2015\PrimitiveDatTypesAndVariables-Homework\13. Comparing-Floats\obj\Debug\_13.Comparing_Floats.exe
+D:\Documents\Programming Basics - май 2015\03. Primitive-Data-Types-and-Variables - 22 май 2015\PrimitiveDatTypesAndVariables-Homework\13. Comparing-Floats\obj\Debug\_13.Comparing_Floats.pdb
+D:\Documents\Programming Basics - май 2015\03. Primitive-Data-Types-and-Variables - 22 май 2015\PrimitiveDatTypesAndVariables-Homework\13. Comparing-Floats\bin\Debug\_13.Comparing_Floats.exe
+D:\Documents\Programming Basics - май 2015\03. Primitive-Data-Types-and-Variables - 22 май 2015\PrimitiveDatTypesAndVariables-Homework\13. Comparing-Floats\bin\Debug\_13.Comparing_Floats.pdb
+D:\Documents\Programming Basics - май 2015\03. Primitive-Data-Types-and-Variables - 22 май 2015\PrimitiveDatTypesAndVariables-Homework\13. Comparing-Floats\obj\Debug\13. Comparing-Floats.csprojResolveAssemblyReference.cache

@@ -1,0 +1,2 @@
+D:\Documents\Programming Basics - май 2015\03. Primitive-Data-Types-and-Variables\PrimitiveDatTypesAndVariables-Homework\19. Bits-Inverter\bin\Debug\_19.Bits_Inverter.exe.config
+D:\Programing\0. Programming Basics - May 2015\03. Primitive-Data-Types-and-Variables\PrimitiveDatTypesAndVariables-Homework\19. Bits-Inverter\bin\Debug\_19.Bits_Inverter.exe.config

@@ -1,0 +1,12 @@
+E:\My Documents\Programming Basics - май 2015\22 май 2015\PrimitiveDatTypesAndVariables-Homework\02. Float-or-Double\bin\Debug\_02.Float_or_Double.exe.config
+E:\My Documents\Programming Basics - май 2015\22 май 2015\PrimitiveDatTypesAndVariables-Homework\02. Float-or-Double\bin\Debug\_02.Float_or_Double.exe
+E:\My Documents\Programming Basics - май 2015\22 май 2015\PrimitiveDatTypesAndVariables-Homework\02. Float-or-Double\bin\Debug\_02.Float_or_Double.pdb
+E:\My Documents\Programming Basics - май 2015\22 май 2015\PrimitiveDatTypesAndVariables-Homework\02. Float-or-Double\obj\Debug\02. Float-or-Double.csprojResolveAssemblyReference.cache
+E:\My Documents\Programming Basics - май 2015\22 май 2015\PrimitiveDatTypesAndVariables-Homework\02. Float-or-Double\obj\Debug\_02.Float_or_Double.exe
+E:\My Documents\Programming Basics - май 2015\22 май 2015\PrimitiveDatTypesAndVariables-Homework\02. Float-or-Double\obj\Debug\_02.Float_or_Double.pdb
+D:\Documents\Programming Basics - май 2015\03. Primitive-Data-Types-and-Variables - 22 май 2015\PrimitiveDatTypesAndVariables-Homework\02. Float-or-Double\bin\Debug\_02.Float_or_Double.exe.config
+D:\Documents\Programming Basics - май 2015\03. Primitive-Data-Types-and-Variables - 22 май 2015\PrimitiveDatTypesAndVariables-Homework\02. Float-or-Double\obj\Debug\_02.Float_or_Double.exe
+D:\Documents\Programming Basics - май 2015\03. Primitive-Data-Types-and-Variables - 22 май 2015\PrimitiveDatTypesAndVariables-Homework\02. Float-or-Double\obj\Debug\_02.Float_or_Double.pdb
+D:\Documents\Programming Basics - май 2015\03. Primitive-Data-Types-and-Variables - 22 май 2015\PrimitiveDatTypesAndVariables-Homework\02. Float-or-Double\bin\Debug\_02.Float_or_Double.exe
+D:\Documents\Programming Basics - май 2015\03. Primitive-Data-Types-and-Variables - 22 май 2015\PrimitiveDatTypesAndVariables-Homework\02. Float-or-Double\bin\Debug\_02.Float_or_Double.pdb
+D:\Documents\Programming Basics - май 2015\03. Primitive-Data-Types-and-Variables - 22 май 2015\PrimitiveDatTypesAndVariables-Homework\02. Float-or-Double\obj\Debug\02. Float-or-Double.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+E:\My Documents\Programming Basics - май 2015\8. CSharp-Advanced-Topics - 27 юни 2015\8. CSharp-Advanced-Topics-Home\02. Sorting-Numbers\bin\Debug\_02.Sorting_Numbers.exe.config
+E:\My Documents\Programming Basics - май 2015\8. CSharp-Advanced-Topics - 27 юни 2015\8. CSharp-Advanced-Topics-Home\02. Sorting-Numbers\bin\Debug\_02.Sorting_Numbers.exe
+E:\My Documents\Programming Basics - май 2015\8. CSharp-Advanced-Topics - 27 юни 2015\8. CSharp-Advanced-Topics-Home\02. Sorting-Numbers\bin\Debug\_02.Sorting_Numbers.pdb
+E:\My Documents\Programming Basics - май 2015\8. CSharp-Advanced-Topics - 27 юни 2015\8. CSharp-Advanced-Topics-Home\02. Sorting-Numbers\obj\Debug\_02.Sorting_Numbers.exe
+E:\My Documents\Programming Basics - май 2015\8. CSharp-Advanced-Topics - 27 юни 2015\8. CSharp-Advanced-Topics-Home\02. Sorting-Numbers\obj\Debug\_02.Sorting_Numbers.pdb
+E:\My Documents\Programming Basics - май 2015\8. CSharp-Advanced-Topics - 27 юни 2015\8. CSharp-Advanced-Topics-Home\02. Sorting-Numbers\obj\Debug\02. Sorting-Numbers.csprojResolveAssemblyReference.cache
+E:\My Documents\Programming Basics - май 2015\8. CSharp-Advanced-Topics - 27 юни 2015\8. CSharp-Advanced-Topics-Home\8. CSharp-Advanced-Topics-Home\02. Sorting-Numbers\bin\Debug\_02.Sorting_Numbers.exe.config
+E:\My Documents\Programming Basics - май 2015\8. CSharp-Advanced-Topics - 27 юни 2015\8. CSharp-Advanced-Topics-Home\8. CSharp-Advanced-Topics-Home\02. Sorting-Numbers\obj\Debug\_02.Sorting_Numbers.exe
+E:\My Documents\Programming Basics - май 2015\8. CSharp-Advanced-Topics - 27 юни 2015\8. CSharp-Advanced-Topics-Home\8. CSharp-Advanced-Topics-Home\02. Sorting-Numbers\obj\Debug\_02.Sorting_Numbers.pdb

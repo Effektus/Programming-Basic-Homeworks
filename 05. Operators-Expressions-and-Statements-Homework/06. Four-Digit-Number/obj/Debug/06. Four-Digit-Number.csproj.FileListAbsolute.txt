@@ -1,0 +1,6 @@
+E:\My Documents\Programming Basics - май 2015\05. 06 юни 2015\05. Homework\06. Four-Digit-Number\bin\Debug\_06.Four_Digit_Number.exe.config
+E:\My Documents\Programming Basics - май 2015\05. 06 юни 2015\05. Homework\06. Four-Digit-Number\bin\Debug\_06.Four_Digit_Number.exe
+E:\My Documents\Programming Basics - май 2015\05. 06 юни 2015\05. Homework\06. Four-Digit-Number\bin\Debug\_06.Four_Digit_Number.pdb
+E:\My Documents\Programming Basics - май 2015\05. 06 юни 2015\05. Homework\06. Four-Digit-Number\obj\Debug\06. Four-Digit-Number.csprojResolveAssemblyReference.cache
+E:\My Documents\Programming Basics - май 2015\05. 06 юни 2015\05. Homework\06. Four-Digit-Number\obj\Debug\_06.Four_Digit_Number.exe
+E:\My Documents\Programming Basics - май 2015\05. 06 юни 2015\05. Homework\06. Four-Digit-Number\obj\Debug\_06.Four_Digit_Number.pdb

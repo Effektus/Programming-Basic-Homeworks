@@ -1,0 +1,6 @@
+E:\My Documents\Programming Basics - май 2015\7. Loops - 20 юни 2015\7. Loops-Homework\16. Decimal-To-Hexadecimal-Number\bin\Debug\_16.Decimal_To_Hexadecimal_Number.exe.config
+E:\My Documents\Programming Basics - май 2015\7. Loops - 20 юни 2015\7. Loops-Homework\16. Decimal-To-Hexadecimal-Number\bin\Debug\_16.Decimal_To_Hexadecimal_Number.exe
+E:\My Documents\Programming Basics - май 2015\7. Loops - 20 юни 2015\7. Loops-Homework\16. Decimal-To-Hexadecimal-Number\bin\Debug\_16.Decimal_To_Hexadecimal_Number.pdb
+E:\My Documents\Programming Basics - май 2015\7. Loops - 20 юни 2015\7. Loops-Homework\16. Decimal-To-Hexadecimal-Number\obj\Debug\16. Decimal-To-Hexadecimal-Number.csprojResolveAssemblyReference.cache
+E:\My Documents\Programming Basics - май 2015\7. Loops - 20 юни 2015\7. Loops-Homework\16. Decimal-To-Hexadecimal-Number\obj\Debug\_16.Decimal_To_Hexadecimal_Number.exe
+E:\My Documents\Programming Basics - май 2015\7. Loops - 20 юни 2015\7. Loops-Homework\16. Decimal-To-Hexadecimal-Number\obj\Debug\_16.Decimal_To_Hexadecimal_Number.pdb

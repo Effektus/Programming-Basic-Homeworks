@@ -1,0 +1,15 @@
+E:\My Documents\Programming Basics - май 2015\22 май 2015\PrimitiveDatTypesAndVariables-Homework\15. Joro-The-Football-Player\bin\Debug\_15.Joro_The_Football_Player.exe.config
+E:\My Documents\Programming Basics - май 2015\22 май 2015\PrimitiveDatTypesAndVariables-Homework\15. Joro-The-Football-Player\bin\Debug\_15.Joro_The_Football_Player.exe
+E:\My Documents\Programming Basics - май 2015\22 май 2015\PrimitiveDatTypesAndVariables-Homework\15. Joro-The-Football-Player\bin\Debug\_15.Joro_The_Football_Player.pdb
+E:\My Documents\Programming Basics - май 2015\22 май 2015\PrimitiveDatTypesAndVariables-Homework\15. Joro-The-Football-Player\obj\Debug\15. Joro-The-Football-Player.csprojResolveAssemblyReference.cache
+E:\My Documents\Programming Basics - май 2015\22 май 2015\PrimitiveDatTypesAndVariables-Homework\15. Joro-The-Football-Player\obj\Debug\_15.Joro_The_Football_Player.exe
+E:\My Documents\Programming Basics - май 2015\22 май 2015\PrimitiveDatTypesAndVariables-Homework\15. Joro-The-Football-Player\obj\Debug\_15.Joro_The_Football_Player.pdb
+D:\Documents\Programming Basics - май 2015\03. Primitive-Data-Types-and-Variables - 22 май 2015\PrimitiveDatTypesAndVariables-Homework\15. Joro-The-Football-Player\bin\Debug\_15.Joro_The_Football_Player.exe.config
+D:\Documents\Programming Basics - май 2015\03. Primitive-Data-Types-and-Variables - 22 май 2015\PrimitiveDatTypesAndVariables-Homework\15. Joro-The-Football-Player\obj\Debug\_15.Joro_The_Football_Player.exe
+D:\Documents\Programming Basics - май 2015\03. Primitive-Data-Types-and-Variables - 22 май 2015\PrimitiveDatTypesAndVariables-Homework\15. Joro-The-Football-Player\obj\Debug\_15.Joro_The_Football_Player.pdb
+D:\Documents\Programming Basics - май 2015\03. Primitive-Data-Types-and-Variables\PrimitiveDatTypesAndVariables-Homework\15. Joro-The-Football-Player\bin\Debug\_15.Joro_The_Football_Player.exe.config
+D:\Documents\Programming Basics - май 2015\03. Primitive-Data-Types-and-Variables\PrimitiveDatTypesAndVariables-Homework\15. Joro-The-Football-Player\obj\Debug\_15.Joro_The_Football_Player.exe
+D:\Documents\Programming Basics - май 2015\03. Primitive-Data-Types-and-Variables\PrimitiveDatTypesAndVariables-Homework\15. Joro-The-Football-Player\obj\Debug\_15.Joro_The_Football_Player.pdb
+D:\Documents\Programming Basics - май 2015\03. Primitive-Data-Types-and-Variables\PrimitiveDatTypesAndVariables-Homework\15. Joro-The-Football-Player\bin\Debug\_15.Joro_The_Football_Player.exe
+D:\Documents\Programming Basics - май 2015\03. Primitive-Data-Types-and-Variables\PrimitiveDatTypesAndVariables-Homework\15. Joro-The-Football-Player\bin\Debug\_15.Joro_The_Football_Player.pdb
+D:\Documents\Programming Basics - май 2015\03. Primitive-Data-Types-and-Variables\PrimitiveDatTypesAndVariables-Homework\15. Joro-The-Football-Player\obj\Debug\15. Joro-The-Football-Player.csprojResolveAssemblyReference.cache

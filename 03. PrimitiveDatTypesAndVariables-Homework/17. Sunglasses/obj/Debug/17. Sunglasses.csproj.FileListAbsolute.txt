@@ -1,0 +1,6 @@
+D:\Documents\Programming Basics - май 2015\03. Primitive-Data-Types-and-Variables\PrimitiveDatTypesAndVariables-Homework\17. Sunglasses\bin\Debug\_17.Sunglasses.exe.config
+D:\Documents\Programming Basics - май 2015\03. Primitive-Data-Types-and-Variables\PrimitiveDatTypesAndVariables-Homework\17. Sunglasses\bin\Debug\_17.Sunglasses.exe
+D:\Documents\Programming Basics - май 2015\03. Primitive-Data-Types-and-Variables\PrimitiveDatTypesAndVariables-Homework\17. Sunglasses\bin\Debug\_17.Sunglasses.pdb
+D:\Documents\Programming Basics - май 2015\03. Primitive-Data-Types-and-Variables\PrimitiveDatTypesAndVariables-Homework\17. Sunglasses\obj\Debug\17. Sunglasses.csprojResolveAssemblyReference.cache
+D:\Documents\Programming Basics - май 2015\03. Primitive-Data-Types-and-Variables\PrimitiveDatTypesAndVariables-Homework\17. Sunglasses\obj\Debug\_17.Sunglasses.exe
+D:\Documents\Programming Basics - май 2015\03. Primitive-Data-Types-and-Variables\PrimitiveDatTypesAndVariables-Homework\17. Sunglasses\obj\Debug\_17.Sunglasses.pdb

@@ -1,0 +1,6 @@
+E:\My Documents\Programming Basics - май 2015\05. 06 юни 2015\05. Homework\01. Odd-or-Even-Integers\bin\Debug\_01.Odd_or_Even_Integers.exe.config
+E:\My Documents\Programming Basics - май 2015\05. 06 юни 2015\05. Homework\01. Odd-or-Even-Integers\obj\Debug\01. Odd-or-Even-Integers.csprojResolveAssemblyReference.cache
+E:\My Documents\Programming Basics - май 2015\05. 06 юни 2015\05. Homework\01. Odd-or-Even-Integers\bin\Debug\_01.Odd_or_Even_Integers.exe
+E:\My Documents\Programming Basics - май 2015\05. 06 юни 2015\05. Homework\01. Odd-or-Even-Integers\bin\Debug\_01.Odd_or_Even_Integers.pdb
+E:\My Documents\Programming Basics - май 2015\05. 06 юни 2015\05. Homework\01. Odd-or-Even-Integers\obj\Debug\_01.Odd_or_Even_Integers.exe
+E:\My Documents\Programming Basics - май 2015\05. 06 юни 2015\05. Homework\01. Odd-or-Even-Integers\obj\Debug\_01.Odd_or_Even_Integers.pdb

@@ -1,0 +1,6 @@
+E:\My Documents\Programming Basics - май 2015\7. Loops - 20 юни 2015\7. Loops-Homework\03. Min-Max-Sum-and-Average-of-N-Numbers\bin\Debug\_03.Min_Max_Sum_and_Average_of_N_Numbers.exe.config
+E:\My Documents\Programming Basics - май 2015\7. Loops - 20 юни 2015\7. Loops-Homework\03. Min-Max-Sum-and-Average-of-N-Numbers\bin\Debug\_03.Min_Max_Sum_and_Average_of_N_Numbers.exe
+E:\My Documents\Programming Basics - май 2015\7. Loops - 20 юни 2015\7. Loops-Homework\03. Min-Max-Sum-and-Average-of-N-Numbers\bin\Debug\_03.Min_Max_Sum_and_Average_of_N_Numbers.pdb
+E:\My Documents\Programming Basics - май 2015\7. Loops - 20 юни 2015\7. Loops-Homework\03. Min-Max-Sum-and-Average-of-N-Numbers\obj\Debug\03. Min-Max-Sum-and-Average-of-N-Numbers.csprojResolveAssemblyReference.cache
+E:\My Documents\Programming Basics - май 2015\7. Loops - 20 юни 2015\7. Loops-Homework\03. Min-Max-Sum-and-Average-of-N-Numbers\obj\Debug\_03.Min_Max_Sum_and_Average_of_N_Numbers.exe
+E:\My Documents\Programming Basics - май 2015\7. Loops - 20 юни 2015\7. Loops-Homework\03. Min-Max-Sum-and-Average-of-N-Numbers\obj\Debug\_03.Min_Max_Sum_and_Average_of_N_Numbers.pdb

@@ -1,0 +1,6 @@
+E:\My Documents\Programming Basics - май 2015\05. 06 юни 2015\05. Homework\13. Check-a-Bit-at-Given-Position\bin\Debug\_13.Check_a_Bit_at_Given_Position.exe.config
+E:\My Documents\Programming Basics - май 2015\05. 06 юни 2015\05. Homework\13. Check-a-Bit-at-Given-Position\bin\Debug\_13.Check_a_Bit_at_Given_Position.exe
+E:\My Documents\Programming Basics - май 2015\05. 06 юни 2015\05. Homework\13. Check-a-Bit-at-Given-Position\bin\Debug\_13.Check_a_Bit_at_Given_Position.pdb
+E:\My Documents\Programming Basics - май 2015\05. 06 юни 2015\05. Homework\13. Check-a-Bit-at-Given-Position\obj\Debug\13. Check-a-Bit-at-Given-Position.csprojResolveAssemblyReference.cache
+E:\My Documents\Programming Basics - май 2015\05. 06 юни 2015\05. Homework\13. Check-a-Bit-at-Given-Position\obj\Debug\_13.Check_a_Bit_at_Given_Position.exe
+E:\My Documents\Programming Basics - май 2015\05. 06 юни 2015\05. Homework\13. Check-a-Bit-at-Given-Position\obj\Debug\_13.Check_a_Bit_at_Given_Position.pdb

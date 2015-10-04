@@ -1,0 +1,10 @@
+E:\My Documents\Programming Basics - май 2015\22 май 2015\PrimitiveDatTypesAndVariables-Homework\05. Boolean-Variable\bin\Debug\_05.Boolean_Variable.exe.config
+E:\My Documents\Programming Basics - май 2015\22 май 2015\PrimitiveDatTypesAndVariables-Homework\05. Boolean-Variable\bin\Debug\_05.Boolean_Variable.exe
+E:\My Documents\Programming Basics - май 2015\22 май 2015\PrimitiveDatTypesAndVariables-Homework\05. Boolean-Variable\bin\Debug\_05.Boolean_Variable.pdb
+E:\My Documents\Programming Basics - май 2015\22 май 2015\PrimitiveDatTypesAndVariables-Homework\05. Boolean-Variable\obj\Debug\_05.Boolean_Variable.exe
+E:\My Documents\Programming Basics - май 2015\22 май 2015\PrimitiveDatTypesAndVariables-Homework\05. Boolean-Variable\obj\Debug\_05.Boolean_Variable.pdb
+D:\Documents\Programming Basics - май 2015\03. Primitive-Data-Types-and-Variables - 22 май 2015\PrimitiveDatTypesAndVariables-Homework\05. Boolean-Variable\bin\Debug\_05.Boolean_Variable.exe.config
+D:\Documents\Programming Basics - май 2015\03. Primitive-Data-Types-and-Variables - 22 май 2015\PrimitiveDatTypesAndVariables-Homework\05. Boolean-Variable\bin\Debug\_05.Boolean_Variable.exe
+D:\Documents\Programming Basics - май 2015\03. Primitive-Data-Types-and-Variables - 22 май 2015\PrimitiveDatTypesAndVariables-Homework\05. Boolean-Variable\bin\Debug\_05.Boolean_Variable.pdb
+D:\Documents\Programming Basics - май 2015\03. Primitive-Data-Types-and-Variables - 22 май 2015\PrimitiveDatTypesAndVariables-Homework\05. Boolean-Variable\obj\Debug\_05.Boolean_Variable.exe
+D:\Documents\Programming Basics - май 2015\03. Primitive-Data-Types-and-Variables - 22 май 2015\PrimitiveDatTypesAndVariables-Homework\05. Boolean-Variable\obj\Debug\_05.Boolean_Variable.pdb

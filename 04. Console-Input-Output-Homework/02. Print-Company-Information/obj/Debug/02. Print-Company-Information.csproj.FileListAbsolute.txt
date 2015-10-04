@@ -1,0 +1,9 @@
+E:\My Documents\Programming Basics - май 2015\29 май 2015\04. Console-Input-Output-Homework\02. Print-Company-Information\bin\Debug\_02.Print_Company_Information.exe.config
+E:\My Documents\Programming Basics - май 2015\29 май 2015\04. Console-Input-Output-Homework\02. Print-Company-Information\bin\Debug\_02.Print_Company_Information.exe
+E:\My Documents\Programming Basics - май 2015\29 май 2015\04. Console-Input-Output-Homework\02. Print-Company-Information\bin\Debug\_02.Print_Company_Information.pdb
+E:\My Documents\Programming Basics - май 2015\29 май 2015\04. Console-Input-Output-Homework\02. Print-Company-Information\obj\Debug\02. Print-Company-Information.csprojResolveAssemblyReference.cache
+E:\My Documents\Programming Basics - май 2015\29 май 2015\04. Console-Input-Output-Homework\02. Print-Company-Information\obj\Debug\_02.Print_Company_Information.exe
+E:\My Documents\Programming Basics - май 2015\29 май 2015\04. Console-Input-Output-Homework\02. Print-Company-Information\obj\Debug\_02.Print_Company_Information.pdb
+E:\My Documents\Programming Basics - май 2015\4. Console-Input-Output - 29 май 2015\04. Console-Input-Output-Homework\02. Print-Company-Information\bin\Debug\_02.Print_Company_Information.exe.config
+E:\My Documents\Programming Basics - май 2015\4. Console-Input-Output - 29 май 2015\04. Console-Input-Output-Homework\02. Print-Company-Information\obj\Debug\_02.Print_Company_Information.exe
+E:\My Documents\Programming Basics - май 2015\4. Console-Input-Output - 29 май 2015\04. Console-Input-Output-Homework\02. Print-Company-Information\obj\Debug\_02.Print_Company_Information.pdb

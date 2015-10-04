@@ -1,0 +1,6 @@
+E:\My Documents\Programming Basics - май 2015\7. Loops - 20 юни 2015\7. Loops-Homework\04. Print-a-Deck-of-52-Cards\bin\Debug\_04.Print_a_Deck_of_52_Cards.exe.config
+E:\My Documents\Programming Basics - май 2015\7. Loops - 20 юни 2015\7. Loops-Homework\04. Print-a-Deck-of-52-Cards\bin\Debug\_04.Print_a_Deck_of_52_Cards.exe
+E:\My Documents\Programming Basics - май 2015\7. Loops - 20 юни 2015\7. Loops-Homework\04. Print-a-Deck-of-52-Cards\bin\Debug\_04.Print_a_Deck_of_52_Cards.pdb
+E:\My Documents\Programming Basics - май 2015\7. Loops - 20 юни 2015\7. Loops-Homework\04. Print-a-Deck-of-52-Cards\obj\Debug\04. Print-a-Deck-of-52-Cards.csprojResolveAssemblyReference.cache
+E:\My Documents\Programming Basics - май 2015\7. Loops - 20 юни 2015\7. Loops-Homework\04. Print-a-Deck-of-52-Cards\obj\Debug\_04.Print_a_Deck_of_52_Cards.exe
+E:\My Documents\Programming Basics - май 2015\7. Loops - 20 юни 2015\7. Loops-Homework\04. Print-a-Deck-of-52-Cards\obj\Debug\_04.Print_a_Deck_of_52_Cards.pdb

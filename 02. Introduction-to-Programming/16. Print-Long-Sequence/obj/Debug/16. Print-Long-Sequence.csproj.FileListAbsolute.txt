@@ -1,0 +1,6 @@
+E:\My Documents\Programming Basics - май 2015\16 май 2015\Intro-Programming-Homework\16. Print-Long-Sequence\bin\Debug\_16.Print_Long_Sequence.exe.config
+E:\My Documents\Programming Basics - май 2015\16 май 2015\Intro-Programming-Homework\16. Print-Long-Sequence\bin\Debug\_16.Print_Long_Sequence.exe
+E:\My Documents\Programming Basics - май 2015\16 май 2015\Intro-Programming-Homework\16. Print-Long-Sequence\bin\Debug\_16.Print_Long_Sequence.pdb
+E:\My Documents\Programming Basics - май 2015\16 май 2015\Intro-Programming-Homework\16. Print-Long-Sequence\obj\Debug\16. Print-Long-Sequence.csprojResolveAssemblyReference.cache
+E:\My Documents\Programming Basics - май 2015\16 май 2015\Intro-Programming-Homework\16. Print-Long-Sequence\obj\Debug\_16.Print_Long_Sequence.exe
+E:\My Documents\Programming Basics - май 2015\16 май 2015\Intro-Programming-Homework\16. Print-Long-Sequence\obj\Debug\_16.Print_Long_Sequence.pdb

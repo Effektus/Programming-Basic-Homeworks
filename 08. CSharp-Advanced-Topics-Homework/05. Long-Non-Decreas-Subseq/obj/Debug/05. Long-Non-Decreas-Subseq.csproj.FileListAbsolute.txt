@@ -1,0 +1,5 @@
+E:\My Documents\Programming Basics - май 2015\8. CSharp-Advanced-Topics - 27 юни 2015\8. CSharp-Advanced-Topics-Home\05. Long-Non-Decreas-Subseq\bin\Debug\_05.Long_Non_Decreas_Subseq.exe.config
+E:\My Documents\Programming Basics - май 2015\8. CSharp-Advanced-Topics - 27 юни 2015\8. CSharp-Advanced-Topics-Home\05. Long-Non-Decreas-Subseq\bin\Debug\_05.Long_Non_Decreas_Subseq.exe
+E:\My Documents\Programming Basics - май 2015\8. CSharp-Advanced-Topics - 27 юни 2015\8. CSharp-Advanced-Topics-Home\05. Long-Non-Decreas-Subseq\bin\Debug\_05.Long_Non_Decreas_Subseq.pdb
+E:\My Documents\Programming Basics - май 2015\8. CSharp-Advanced-Topics - 27 юни 2015\8. CSharp-Advanced-Topics-Home\05. Long-Non-Decreas-Subseq\obj\Debug\_05.Long_Non_Decreas_Subseq.exe
+E:\My Documents\Programming Basics - май 2015\8. CSharp-Advanced-Topics - 27 юни 2015\8. CSharp-Advanced-Topics-Home\05. Long-Non-Decreas-Subseq\obj\Debug\_05.Long_Non_Decreas_Subseq.pdb

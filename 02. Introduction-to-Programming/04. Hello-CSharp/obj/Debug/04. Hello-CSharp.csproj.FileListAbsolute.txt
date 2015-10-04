@@ -1,0 +1,14 @@
+E:\My Documents\Programming Basics - май 2015\16 май 2015\Intro-Programming-Homework\04. Hello-CSharp\bin\Debug\_04.Hello_CSharp.exe.config
+E:\My Documents\Programming Basics - май 2015\16 май 2015\Intro-Programming-Homework\04. Hello-CSharp\bin\Debug\_04.Hello_CSharp.exe
+E:\My Documents\Programming Basics - май 2015\16 май 2015\Intro-Programming-Homework\04. Hello-CSharp\bin\Debug\_04.Hello_CSharp.pdb
+E:\My Documents\Programming Basics - май 2015\16 май 2015\Intro-Programming-Homework\04. Hello-CSharp\obj\Debug\_04.Hello_CSharp.exe
+E:\My Documents\Programming Basics - май 2015\16 май 2015\Intro-Programming-Homework\04. Hello-CSharp\obj\Debug\_04.Hello_CSharp.pdb
+E:\My Documents\Programming Basics - май 2015\2. Introduction-to-Programming - 16 май 2015\Intro-Programming-Homework\04. Hello-CSharp\bin\Debug\_04.Hello_CSharp.exe.config
+E:\My Documents\Programming Basics - май 2015\2. Introduction-to-Programming - 16 май 2015\Intro-Programming-Homework\04. Hello-CSharp\obj\Debug\_04.Hello_CSharp.exe
+E:\My Documents\Programming Basics - май 2015\2. Introduction-to-Programming - 16 май 2015\Intro-Programming-Homework\04. Hello-CSharp\obj\Debug\_04.Hello_CSharp.pdb
+D:\Documents\Programming Basics - май 2015\02. Introduction-to-Programming - 16 май 2015\Intro-Programming-Homework\04. Hello-CSharp\bin\Debug\_04.Hello_CSharp.exe.config
+D:\Documents\Programming Basics - май 2015\02. Introduction-to-Programming - 16 май 2015\Intro-Programming-Homework\04. Hello-CSharp\obj\Debug\_04.Hello_CSharp.exe
+D:\Documents\Programming Basics - май 2015\02. Introduction-to-Programming - 16 май 2015\Intro-Programming-Homework\04. Hello-CSharp\obj\Debug\_04.Hello_CSharp.pdb
+D:\Documents\Programirame\Programming Basics - May 2015\02. Introduction-to-Programming - 16 май 2015\Intro-Programming-Homework\04. Hello-CSharp\bin\Debug\_04.Hello_CSharp.exe.config
+D:\Documents\Programirame\Programming Basics - May 2015\02. Introduction-to-Programming - 16 май 2015\Intro-Programming-Homework\04. Hello-CSharp\obj\Debug\_04.Hello_CSharp.exe
+D:\Documents\Programirame\Programming Basics - May 2015\02. Introduction-to-Programming - 16 май 2015\Intro-Programming-Homework\04. Hello-CSharp\obj\Debug\_04.Hello_CSharp.pdb

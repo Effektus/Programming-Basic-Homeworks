@@ -1,0 +1,6 @@
+E:\My Documents\Programming Basics - май 2015\6. Conditional-Statements - 13 юни 2015\6. Conditional-Statements-Home\02. Bonus-Score\bin\Debug\_02.Bonus_Score.exe.config
+E:\My Documents\Programming Basics - май 2015\6. Conditional-Statements - 13 юни 2015\6. Conditional-Statements-Home\02. Bonus-Score\obj\Debug\02. Bonus-Score.csprojResolveAssemblyReference.cache
+E:\My Documents\Programming Basics - май 2015\6. Conditional-Statements - 13 юни 2015\6. Conditional-Statements-Home\02. Bonus-Score\bin\Debug\_02.Bonus_Score.exe
+E:\My Documents\Programming Basics - май 2015\6. Conditional-Statements - 13 юни 2015\6. Conditional-Statements-Home\02. Bonus-Score\bin\Debug\_02.Bonus_Score.pdb
+E:\My Documents\Programming Basics - май 2015\6. Conditional-Statements - 13 юни 2015\6. Conditional-Statements-Home\02. Bonus-Score\obj\Debug\_02.Bonus_Score.exe
+E:\My Documents\Programming Basics - май 2015\6. Conditional-Statements - 13 юни 2015\6. Conditional-Statements-Home\02. Bonus-Score\obj\Debug\_02.Bonus_Score.pdb

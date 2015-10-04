@@ -1,0 +1,10 @@
+E:\My Documents\Programming Basics - май 2015\22 май 2015\PrimitiveDatTypesAndVariables-Homework\07. Quotes-In-Strings\bin\Debug\_07.Quotes_In_Strings.exe.config
+E:\My Documents\Programming Basics - май 2015\22 май 2015\PrimitiveDatTypesAndVariables-Homework\07. Quotes-In-Strings\bin\Debug\_07.Quotes_In_Strings.exe
+E:\My Documents\Programming Basics - май 2015\22 май 2015\PrimitiveDatTypesAndVariables-Homework\07. Quotes-In-Strings\bin\Debug\_07.Quotes_In_Strings.pdb
+E:\My Documents\Programming Basics - май 2015\22 май 2015\PrimitiveDatTypesAndVariables-Homework\07. Quotes-In-Strings\obj\Debug\_07.Quotes_In_Strings.exe
+E:\My Documents\Programming Basics - май 2015\22 май 2015\PrimitiveDatTypesAndVariables-Homework\07. Quotes-In-Strings\obj\Debug\_07.Quotes_In_Strings.pdb
+D:\Documents\Programming Basics - май 2015\03. Primitive-Data-Types-and-Variables - 22 май 2015\PrimitiveDatTypesAndVariables-Homework\07. Quotes-In-Strings\bin\Debug\_07.Quotes_In_Strings.exe.config
+D:\Documents\Programming Basics - май 2015\03. Primitive-Data-Types-and-Variables - 22 май 2015\PrimitiveDatTypesAndVariables-Homework\07. Quotes-In-Strings\bin\Debug\_07.Quotes_In_Strings.exe
+D:\Documents\Programming Basics - май 2015\03. Primitive-Data-Types-and-Variables - 22 май 2015\PrimitiveDatTypesAndVariables-Homework\07. Quotes-In-Strings\bin\Debug\_07.Quotes_In_Strings.pdb
+D:\Documents\Programming Basics - май 2015\03. Primitive-Data-Types-and-Variables - 22 май 2015\PrimitiveDatTypesAndVariables-Homework\07. Quotes-In-Strings\obj\Debug\_07.Quotes_In_Strings.exe
+D:\Documents\Programming Basics - май 2015\03. Primitive-Data-Types-and-Variables - 22 май 2015\PrimitiveDatTypesAndVariables-Homework\07. Quotes-In-Strings\obj\Debug\_07.Quotes_In_Strings.pdb

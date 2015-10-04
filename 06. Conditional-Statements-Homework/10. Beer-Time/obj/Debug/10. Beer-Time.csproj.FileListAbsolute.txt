@@ -1,0 +1,6 @@
+E:\My Documents\Programming Basics - май 2015\6. Conditional-Statements - 13 юни 2015\6. Conditional-Statements-Home\10. Beer-Time\bin\Debug\_10.Beer_Time.exe.config
+E:\My Documents\Programming Basics - май 2015\6. Conditional-Statements - 13 юни 2015\6. Conditional-Statements-Home\10. Beer-Time\bin\Debug\_10.Beer_Time.exe
+E:\My Documents\Programming Basics - май 2015\6. Conditional-Statements - 13 юни 2015\6. Conditional-Statements-Home\10. Beer-Time\bin\Debug\_10.Beer_Time.pdb
+E:\My Documents\Programming Basics - май 2015\6. Conditional-Statements - 13 юни 2015\6. Conditional-Statements-Home\10. Beer-Time\obj\Debug\_10.Beer_Time.exe
+E:\My Documents\Programming Basics - май 2015\6. Conditional-Statements - 13 юни 2015\6. Conditional-Statements-Home\10. Beer-Time\obj\Debug\_10.Beer_Time.pdb
+E:\My Documents\Programming Basics - май 2015\6. Conditional-Statements - 13 юни 2015\6. Conditional-Statements-Home\10. Beer-Time\obj\Debug\10. Beer-Time.csprojResolveAssemblyReference.cache

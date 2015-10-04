@@ -1,0 +1,12 @@
+E:\My Documents\Programming Basics - май 2015\29 май 2015\04. Console-Input-Output-Homework\01. Sum-of-3-Numbers\bin\Debug\_01.Sum_of_3_Numbers.exe.config
+E:\My Documents\Programming Basics - май 2015\29 май 2015\04. Console-Input-Output-Homework\01. Sum-of-3-Numbers\bin\Debug\_01.Sum_of_3_Numbers.exe
+E:\My Documents\Programming Basics - май 2015\29 май 2015\04. Console-Input-Output-Homework\01. Sum-of-3-Numbers\bin\Debug\_01.Sum_of_3_Numbers.pdb
+E:\My Documents\Programming Basics - май 2015\29 май 2015\04. Console-Input-Output-Homework\01. Sum-of-3-Numbers\obj\Debug\01. Sum-of-3-Numbers.csprojResolveAssemblyReference.cache
+E:\My Documents\Programming Basics - май 2015\29 май 2015\04. Console-Input-Output-Homework\01. Sum-of-3-Numbers\obj\Debug\_01.Sum_of_3_Numbers.exe
+E:\My Documents\Programming Basics - май 2015\29 май 2015\04. Console-Input-Output-Homework\01. Sum-of-3-Numbers\obj\Debug\_01.Sum_of_3_Numbers.pdb
+E:\My Documents\Programming Basics - май 2015\04. 29 май 2015\04. Console-Input-Output-Homework\01. Sum-of-3-Numbers\bin\Debug\_01.Sum_of_3_Numbers.exe.config
+E:\My Documents\Programming Basics - май 2015\04. 29 май 2015\04. Console-Input-Output-Homework\01. Sum-of-3-Numbers\obj\Debug\_01.Sum_of_3_Numbers.exe
+E:\My Documents\Programming Basics - май 2015\04. 29 май 2015\04. Console-Input-Output-Homework\01. Sum-of-3-Numbers\obj\Debug\_01.Sum_of_3_Numbers.pdb
+E:\My Documents\Programming Basics - май 2015\4. Console-Input-Output - 29 май 2015\04. Console-Input-Output-Homework\01. Sum-of-3-Numbers\bin\Debug\_01.Sum_of_3_Numbers.exe.config
+E:\My Documents\Programming Basics - май 2015\4. Console-Input-Output - 29 май 2015\04. Console-Input-Output-Homework\01. Sum-of-3-Numbers\obj\Debug\_01.Sum_of_3_Numbers.exe
+E:\My Documents\Programming Basics - май 2015\4. Console-Input-Output - 29 май 2015\04. Console-Input-Output-Homework\01. Sum-of-3-Numbers\obj\Debug\_01.Sum_of_3_Numbers.pdb

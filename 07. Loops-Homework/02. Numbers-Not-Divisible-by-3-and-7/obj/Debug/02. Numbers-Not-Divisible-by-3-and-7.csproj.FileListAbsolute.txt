@@ -1,0 +1,6 @@
+E:\My Documents\Programming Basics - май 2015\7. Loops - 20 юни 2015\7. Loops-Homework\02. Numbers-Not-Divisible-by-3-and-7\bin\Debug\_02.Numbers_Not_Divisible_by_3_and_7.exe.config
+E:\My Documents\Programming Basics - май 2015\7. Loops - 20 юни 2015\7. Loops-Homework\02. Numbers-Not-Divisible-by-3-and-7\bin\Debug\_02.Numbers_Not_Divisible_by_3_and_7.exe
+E:\My Documents\Programming Basics - май 2015\7. Loops - 20 юни 2015\7. Loops-Homework\02. Numbers-Not-Divisible-by-3-and-7\bin\Debug\_02.Numbers_Not_Divisible_by_3_and_7.pdb
+E:\My Documents\Programming Basics - май 2015\7. Loops - 20 юни 2015\7. Loops-Homework\02. Numbers-Not-Divisible-by-3-and-7\obj\Debug\_02.Numbers_Not_Divisible_by_3_and_7.exe
+E:\My Documents\Programming Basics - май 2015\7. Loops - 20 юни 2015\7. Loops-Homework\02. Numbers-Not-Divisible-by-3-and-7\obj\Debug\_02.Numbers_Not_Divisible_by_3_and_7.pdb
+E:\My Documents\Programming Basics - май 2015\7. Loops - 20 юни 2015\7. Loops-Homework\02. Numbers-Not-Divisible-by-3-and-7\obj\Debug\02. Numbers-Not-Divisible-by-3-and-7.csprojResolveAssemblyReference.cache

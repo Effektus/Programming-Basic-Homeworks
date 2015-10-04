@@ -1,0 +1,13 @@
+E:\My Documents\Programming Basics - май 2015\16 май 2015\Intro-Programming-Homework\14. Current-Date-And-Time\bin\Debug\_14.Current_Date_And_Time.exe.config
+E:\My Documents\Programming Basics - май 2015\16 май 2015\Intro-Programming-Homework\14. Current-Date-And-Time\bin\Debug\_14.Current_Date_And_Time.exe
+E:\My Documents\Programming Basics - май 2015\16 май 2015\Intro-Programming-Homework\14. Current-Date-And-Time\bin\Debug\_14.Current_Date_And_Time.pdb
+E:\My Documents\Programming Basics - май 2015\16 май 2015\Intro-Programming-Homework\14. Current-Date-And-Time\obj\Debug\_14.Current_Date_And_Time.exe
+E:\My Documents\Programming Basics - май 2015\16 май 2015\Intro-Programming-Homework\14. Current-Date-And-Time\obj\Debug\_14.Current_Date_And_Time.pdb
+E:\My Documents\Programming Basics - май 2015\2. Introduction-to-Programming - 16 май 2015\Intro-Programming-Homework\14. Current-Date-And-Time\bin\Debug\_14.Current_Date_And_Time.exe.config
+E:\My Documents\Programming Basics - май 2015\2. Introduction-to-Programming - 16 май 2015\Intro-Programming-Homework\14. Current-Date-And-Time\obj\Debug\_14.Current_Date_And_Time.exe
+E:\My Documents\Programming Basics - май 2015\2. Introduction-to-Programming - 16 май 2015\Intro-Programming-Homework\14. Current-Date-And-Time\obj\Debug\_14.Current_Date_And_Time.pdb
+D:\Documents\Programming Basics - май 2015\02. Introduction-to-Programming - 16 май 2015\Intro-Programming-Homework\14. Current-Date-And-Time\bin\Debug\_14.Current_Date_And_Time.exe.config
+D:\Documents\Programming Basics - май 2015\02. Introduction-to-Programming - 16 май 2015\Intro-Programming-Homework\14. Current-Date-And-Time\obj\Debug\_14.Current_Date_And_Time.exe
+D:\Documents\Programming Basics - май 2015\02. Introduction-to-Programming - 16 май 2015\Intro-Programming-Homework\14. Current-Date-And-Time\obj\Debug\_14.Current_Date_And_Time.pdb
+D:\Documents\Programming Basics - май 2015\02. Introduction-to-Programming - 16 май 2015\Intro-Programming-Homework\14. Current-Date-And-Time\bin\Debug\_14.Current_Date_And_Time.exe
+D:\Documents\Programming Basics - май 2015\02. Introduction-to-Programming - 16 май 2015\Intro-Programming-Homework\14. Current-Date-And-Time\bin\Debug\_14.Current_Date_And_Time.pdb

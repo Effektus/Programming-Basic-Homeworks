@@ -1,0 +1,6 @@
+D:\Documents\Programming Basics - май 2015\03. Primitive-Data-Types-and-Variables\PrimitiveDatTypesAndVariables-Homework\18. Nine-Digit-Magic-Numbers\bin\Debug\_18.Nine_Digit_Magic_Numbers.exe.config
+D:\Documents\Programming Basics - май 2015\03. Primitive-Data-Types-and-Variables\PrimitiveDatTypesAndVariables-Homework\18. Nine-Digit-Magic-Numbers\bin\Debug\_18.Nine_Digit_Magic_Numbers.exe
+D:\Documents\Programming Basics - май 2015\03. Primitive-Data-Types-and-Variables\PrimitiveDatTypesAndVariables-Homework\18. Nine-Digit-Magic-Numbers\bin\Debug\_18.Nine_Digit_Magic_Numbers.pdb
+D:\Documents\Programming Basics - май 2015\03. Primitive-Data-Types-and-Variables\PrimitiveDatTypesAndVariables-Homework\18. Nine-Digit-Magic-Numbers\obj\Debug\18. Nine-Digit-Magic-Numbers.csprojResolveAssemblyReference.cache
+D:\Documents\Programming Basics - май 2015\03. Primitive-Data-Types-and-Variables\PrimitiveDatTypesAndVariables-Homework\18. Nine-Digit-Magic-Numbers\obj\Debug\_18.Nine_Digit_Magic_Numbers.exe
+D:\Documents\Programming Basics - май 2015\03. Primitive-Data-Types-and-Variables\PrimitiveDatTypesAndVariables-Homework\18. Nine-Digit-Magic-Numbers\obj\Debug\_18.Nine_Digit_Magic_Numbers.pdb

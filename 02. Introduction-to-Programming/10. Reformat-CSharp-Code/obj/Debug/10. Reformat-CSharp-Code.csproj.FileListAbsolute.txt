@@ -1,0 +1,12 @@
+E:\My Documents\Programming Basics - май 2015\16 май 2015\Intro-Programming-Homework\10. Reformat-CSharp-Code\bin\Debug\_10.Reformat_CSharp_Code.exe.config
+E:\My Documents\Programming Basics - май 2015\16 май 2015\Intro-Programming-Homework\10. Reformat-CSharp-Code\bin\Debug\_10.Reformat_CSharp_Code.exe
+E:\My Documents\Programming Basics - май 2015\16 май 2015\Intro-Programming-Homework\10. Reformat-CSharp-Code\bin\Debug\_10.Reformat_CSharp_Code.pdb
+E:\My Documents\Programming Basics - май 2015\16 май 2015\Intro-Programming-Homework\10. Reformat-CSharp-Code\obj\Debug\_10.Reformat_CSharp_Code.exe
+E:\My Documents\Programming Basics - май 2015\16 май 2015\Intro-Programming-Homework\10. Reformat-CSharp-Code\obj\Debug\_10.Reformat_CSharp_Code.pdb
+E:\My Documents\Programming Basics - май 2015\16 май 2015\Intro-Programming-Homework\10. Reformat-CSharp-Code\obj\Debug\10. Reformat-CSharp-Code.csprojResolveAssemblyReference.cache
+D:\Documents\Programming Basics - май 2015\02. Introduction-to-Programming - 16 май 2015\Intro-Programming-Homework\10. Reformat-CSharp-Code\bin\Debug\_10.Reformat_CSharp_Code.exe.config
+D:\Documents\Programming Basics - май 2015\02. Introduction-to-Programming - 16 май 2015\Intro-Programming-Homework\10. Reformat-CSharp-Code\obj\Debug\_10.Reformat_CSharp_Code.exe
+D:\Documents\Programming Basics - май 2015\02. Introduction-to-Programming - 16 май 2015\Intro-Programming-Homework\10. Reformat-CSharp-Code\obj\Debug\_10.Reformat_CSharp_Code.pdb
+D:\Documents\Programming Basics - май 2015\02. Introduction-to-Programming - 16 май 2015\Intro-Programming-Homework\10. Reformat-CSharp-Code\bin\Debug\_10.Reformat_CSharp_Code.exe
+D:\Documents\Programming Basics - май 2015\02. Introduction-to-Programming - 16 май 2015\Intro-Programming-Homework\10. Reformat-CSharp-Code\bin\Debug\_10.Reformat_CSharp_Code.pdb
+D:\Documents\Programming Basics - май 2015\02. Introduction-to-Programming - 16 май 2015\Intro-Programming-Homework\10. Reformat-CSharp-Code\obj\Debug\10. Reformat-CSharp-Code.csprojResolveAssemblyReference.cache

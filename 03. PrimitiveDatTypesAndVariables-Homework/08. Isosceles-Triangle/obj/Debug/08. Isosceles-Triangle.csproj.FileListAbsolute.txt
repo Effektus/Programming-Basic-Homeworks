@@ -1,0 +1,18 @@
+E:\My Documents\Programming Basics - май 2015\22 май 2015\PrimitiveDatTypesAndVariables-Homework\08. Isosceles-Triangle\bin\Debug\_08.Isosceles_Triangle.exe.config
+E:\My Documents\Programming Basics - май 2015\22 май 2015\PrimitiveDatTypesAndVariables-Homework\08. Isosceles-Triangle\bin\Debug\_08.Isosceles_Triangle.exe
+E:\My Documents\Programming Basics - май 2015\22 май 2015\PrimitiveDatTypesAndVariables-Homework\08. Isosceles-Triangle\bin\Debug\_08.Isosceles_Triangle.pdb
+E:\My Documents\Programming Basics - май 2015\22 май 2015\PrimitiveDatTypesAndVariables-Homework\08. Isosceles-Triangle\obj\Debug\_08.Isosceles_Triangle.exe
+E:\My Documents\Programming Basics - май 2015\22 май 2015\PrimitiveDatTypesAndVariables-Homework\08. Isosceles-Triangle\obj\Debug\_08.Isosceles_Triangle.pdb
+E:\My Documents\Programming Basics - май 2015\22 май 2015\PrimitiveDatTypesAndVariables-Homework\08. Isosceles-Triangle\obj\Debug\08. Isosceles-Triangle.csprojResolveAssemblyReference.cache
+E:\My Documents\Programming Basics - май 2015\3. Primitive-Data-Types-and-Variables - 22 май 2015\PrimitiveDatTypesAndVariables-Homework\08. Isosceles-Triangle\bin\Debug\_08.Isosceles_Triangle.exe.config
+E:\My Documents\Programming Basics - май 2015\3. Primitive-Data-Types-and-Variables - 22 май 2015\PrimitiveDatTypesAndVariables-Homework\08. Isosceles-Triangle\obj\Debug\_08.Isosceles_Triangle.exe
+E:\My Documents\Programming Basics - май 2015\3. Primitive-Data-Types-and-Variables - 22 май 2015\PrimitiveDatTypesAndVariables-Homework\08. Isosceles-Triangle\obj\Debug\_08.Isosceles_Triangle.pdb
+E:\My Documents\Programming Basics - май 2015\3. Primitive-Data-Types-and-Variables - 22 май 2015\PrimitiveDatTypesAndVariables-Homework\08. Isosceles-Triangle\bin\Debug\_08.Isosceles_Triangle.exe
+E:\My Documents\Programming Basics - май 2015\3. Primitive-Data-Types-and-Variables - 22 май 2015\PrimitiveDatTypesAndVariables-Homework\08. Isosceles-Triangle\bin\Debug\_08.Isosceles_Triangle.pdb
+E:\My Documents\Programming Basics - май 2015\3. Primitive-Data-Types-and-Variables - 22 май 2015\PrimitiveDatTypesAndVariables-Homework\08. Isosceles-Triangle\obj\Debug\08. Isosceles-Triangle.csprojResolveAssemblyReference.cache
+D:\Documents\Programming Basics - май 2015\03. Primitive-Data-Types-and-Variables - 22 май 2015\PrimitiveDatTypesAndVariables-Homework\08. Isosceles-Triangle\bin\Debug\_08.Isosceles_Triangle.exe.config
+D:\Documents\Programming Basics - май 2015\03. Primitive-Data-Types-and-Variables - 22 май 2015\PrimitiveDatTypesAndVariables-Homework\08. Isosceles-Triangle\obj\Debug\_08.Isosceles_Triangle.exe
+D:\Documents\Programming Basics - май 2015\03. Primitive-Data-Types-and-Variables - 22 май 2015\PrimitiveDatTypesAndVariables-Homework\08. Isosceles-Triangle\obj\Debug\_08.Isosceles_Triangle.pdb
+D:\Documents\Programming Basics - май 2015\03. Primitive-Data-Types-and-Variables - 22 май 2015\PrimitiveDatTypesAndVariables-Homework\08. Isosceles-Triangle\bin\Debug\_08.Isosceles_Triangle.exe
+D:\Documents\Programming Basics - май 2015\03. Primitive-Data-Types-and-Variables - 22 май 2015\PrimitiveDatTypesAndVariables-Homework\08. Isosceles-Triangle\bin\Debug\_08.Isosceles_Triangle.pdb
+D:\Documents\Programming Basics - май 2015\03. Primitive-Data-Types-and-Variables - 22 май 2015\PrimitiveDatTypesAndVariables-Homework\08. Isosceles-Triangle\obj\Debug\08. Isosceles-Triangle.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+E:\My Documents\Programming Basics - май 2015\8. CSharp-Advanced-Topics - 27 юни 2015\8. CSharp-Advanced-Topics-Home\01. Difference-Between-Dates\bin\Debug\_01.Difference_Between_Dates.exe.config
+E:\My Documents\Programming Basics - май 2015\8. CSharp-Advanced-Topics - 27 юни 2015\8. CSharp-Advanced-Topics-Home\01. Difference-Between-Dates\obj\Debug\01. Difference-Between-Dates.csprojResolveAssemblyReference.cache
+E:\My Documents\Programming Basics - май 2015\8. CSharp-Advanced-Topics - 27 юни 2015\8. CSharp-Advanced-Topics-Home\01. Difference-Between-Dates\bin\Debug\_01.Difference_Between_Dates.exe
+E:\My Documents\Programming Basics - май 2015\8. CSharp-Advanced-Topics - 27 юни 2015\8. CSharp-Advanced-Topics-Home\01. Difference-Between-Dates\bin\Debug\_01.Difference_Between_Dates.pdb
+E:\My Documents\Programming Basics - май 2015\8. CSharp-Advanced-Topics - 27 юни 2015\8. CSharp-Advanced-Topics-Home\01. Difference-Between-Dates\obj\Debug\_01.Difference_Between_Dates.exe
+E:\My Documents\Programming Basics - май 2015\8. CSharp-Advanced-Topics - 27 юни 2015\8. CSharp-Advanced-Topics-Home\01. Difference-Between-Dates\obj\Debug\_01.Difference_Between_Dates.pdb
+E:\My Documents\Programming Basics - май 2015\8. CSharp-Advanced-Topics - 27 юни 2015\8. CSharp-Advanced-Topics-Home\8. CSharp-Advanced-Topics-Home\01. Difference-Between-Dates\bin\Debug\_01.Difference_Between_Dates.exe.config
+E:\My Documents\Programming Basics - май 2015\8. CSharp-Advanced-Topics - 27 юни 2015\8. CSharp-Advanced-Topics-Home\8. CSharp-Advanced-Topics-Home\01. Difference-Between-Dates\obj\Debug\_01.Difference_Between_Dates.exe
+E:\My Documents\Programming Basics - май 2015\8. CSharp-Advanced-Topics - 27 юни 2015\8. CSharp-Advanced-Topics-Home\8. CSharp-Advanced-Topics-Home\01. Difference-Between-Dates\obj\Debug\_01.Difference_Between_Dates.pdb

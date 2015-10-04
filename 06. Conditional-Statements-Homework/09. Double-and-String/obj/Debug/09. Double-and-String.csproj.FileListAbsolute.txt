@@ -1,0 +1,6 @@
+E:\My Documents\Programming Basics - май 2015\6. Conditional-Statements - 13 юни 2015\6. Conditional-Statements-Home\09. Double-and-String\bin\Debug\_09.Double_and_String.exe.config
+E:\My Documents\Programming Basics - май 2015\6. Conditional-Statements - 13 юни 2015\6. Conditional-Statements-Home\09. Double-and-String\bin\Debug\_09.Double_and_String.exe
+E:\My Documents\Programming Basics - май 2015\6. Conditional-Statements - 13 юни 2015\6. Conditional-Statements-Home\09. Double-and-String\bin\Debug\_09.Double_and_String.pdb
+E:\My Documents\Programming Basics - май 2015\6. Conditional-Statements - 13 юни 2015\6. Conditional-Statements-Home\09. Double-and-String\obj\Debug\_09.Double_and_String.exe
+E:\My Documents\Programming Basics - май 2015\6. Conditional-Statements - 13 юни 2015\6. Conditional-Statements-Home\09. Double-and-String\obj\Debug\_09.Double_and_String.pdb
+E:\My Documents\Programming Basics - май 2015\6. Conditional-Statements - 13 юни 2015\6. Conditional-Statements-Home\09. Double-and-String\obj\Debug\09. Double-and-String.csprojResolveAssemblyReference.cache

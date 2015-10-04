@@ -1,0 +1,12 @@
+E:\My Documents\Programming Basics - май 2015\22 май 2015\PrimitiveDatTypesAndVariables-Homework\03. Variable-In-Hexadecimal-Format\bin\Debug\_03.Variable_In_Hexadecimal_Format.exe.config
+E:\My Documents\Programming Basics - май 2015\22 май 2015\PrimitiveDatTypesAndVariables-Homework\03. Variable-In-Hexadecimal-Format\obj\Debug\03. Variable-In-Hexadecimal-Format.csprojResolveAssemblyReference.cache
+E:\My Documents\Programming Basics - май 2015\22 май 2015\PrimitiveDatTypesAndVariables-Homework\03. Variable-In-Hexadecimal-Format\bin\Debug\_03.Variable_In_Hexadecimal_Format.exe
+E:\My Documents\Programming Basics - май 2015\22 май 2015\PrimitiveDatTypesAndVariables-Homework\03. Variable-In-Hexadecimal-Format\bin\Debug\_03.Variable_In_Hexadecimal_Format.pdb
+E:\My Documents\Programming Basics - май 2015\22 май 2015\PrimitiveDatTypesAndVariables-Homework\03. Variable-In-Hexadecimal-Format\obj\Debug\_03.Variable_In_Hexadecimal_Format.exe
+E:\My Documents\Programming Basics - май 2015\22 май 2015\PrimitiveDatTypesAndVariables-Homework\03. Variable-In-Hexadecimal-Format\obj\Debug\_03.Variable_In_Hexadecimal_Format.pdb
+D:\Documents\Programming Basics - май 2015\03. Primitive-Data-Types-and-Variables - 22 май 2015\PrimitiveDatTypesAndVariables-Homework\03. Variable-In-Hexadecimal-Format\bin\Debug\_03.Variable_In_Hexadecimal_Format.exe.config
+D:\Documents\Programming Basics - май 2015\03. Primitive-Data-Types-and-Variables - 22 май 2015\PrimitiveDatTypesAndVariables-Homework\03. Variable-In-Hexadecimal-Format\bin\Debug\_03.Variable_In_Hexadecimal_Format.exe
+D:\Documents\Programming Basics - май 2015\03. Primitive-Data-Types-and-Variables - 22 май 2015\PrimitiveDatTypesAndVariables-Homework\03. Variable-In-Hexadecimal-Format\bin\Debug\_03.Variable_In_Hexadecimal_Format.pdb
+D:\Documents\Programming Basics - май 2015\03. Primitive-Data-Types-and-Variables - 22 май 2015\PrimitiveDatTypesAndVariables-Homework\03. Variable-In-Hexadecimal-Format\obj\Debug\03. Variable-In-Hexadecimal-Format.csprojResolveAssemblyReference.cache
+D:\Documents\Programming Basics - май 2015\03. Primitive-Data-Types-and-Variables - 22 май 2015\PrimitiveDatTypesAndVariables-Homework\03. Variable-In-Hexadecimal-Format\obj\Debug\_03.Variable_In_Hexadecimal_Format.exe
+D:\Documents\Programming Basics - май 2015\03. Primitive-Data-Types-and-Variables - 22 май 2015\PrimitiveDatTypesAndVariables-Homework\03. Variable-In-Hexadecimal-Format\obj\Debug\_03.Variable_In_Hexadecimal_Format.pdb

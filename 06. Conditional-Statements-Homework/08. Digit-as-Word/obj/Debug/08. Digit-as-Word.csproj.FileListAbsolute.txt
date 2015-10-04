@@ -1,0 +1,6 @@
+E:\My Documents\Programming Basics - май 2015\6. Conditional-Statements - 13 юни 2015\6. Conditional-Statements-Home\08. Digit-as-Word\bin\Debug\_08.Digit_as_Word.exe.config
+E:\My Documents\Programming Basics - май 2015\6. Conditional-Statements - 13 юни 2015\6. Conditional-Statements-Home\08. Digit-as-Word\bin\Debug\_08.Digit_as_Word.exe
+E:\My Documents\Programming Basics - май 2015\6. Conditional-Statements - 13 юни 2015\6. Conditional-Statements-Home\08. Digit-as-Word\bin\Debug\_08.Digit_as_Word.pdb
+E:\My Documents\Programming Basics - май 2015\6. Conditional-Statements - 13 юни 2015\6. Conditional-Statements-Home\08. Digit-as-Word\obj\Debug\08. Digit-as-Word.csprojResolveAssemblyReference.cache
+E:\My Documents\Programming Basics - май 2015\6. Conditional-Statements - 13 юни 2015\6. Conditional-Statements-Home\08. Digit-as-Word\obj\Debug\_08.Digit_as_Word.exe
+E:\My Documents\Programming Basics - май 2015\6. Conditional-Statements - 13 юни 2015\6. Conditional-Statements-Home\08. Digit-as-Word\obj\Debug\_08.Digit_as_Word.pdb

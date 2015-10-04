@@ -1,0 +1,12 @@
+E:\My Documents\Programming Basics - май 2015\22 май 2015\PrimitiveDatTypesAndVariables-Homework\14. Print-the-ASCII-Table\bin\Debug\_14.Print_the_ASCII_Table.exe.config
+E:\My Documents\Programming Basics - май 2015\22 май 2015\PrimitiveDatTypesAndVariables-Homework\14. Print-the-ASCII-Table\bin\Debug\_14.Print_the_ASCII_Table.exe
+E:\My Documents\Programming Basics - май 2015\22 май 2015\PrimitiveDatTypesAndVariables-Homework\14. Print-the-ASCII-Table\bin\Debug\_14.Print_the_ASCII_Table.pdb
+E:\My Documents\Programming Basics - май 2015\22 май 2015\PrimitiveDatTypesAndVariables-Homework\14. Print-the-ASCII-Table\obj\Debug\14. Print-the-ASCII-Table.csprojResolveAssemblyReference.cache
+E:\My Documents\Programming Basics - май 2015\22 май 2015\PrimitiveDatTypesAndVariables-Homework\14. Print-the-ASCII-Table\obj\Debug\_14.Print_the_ASCII_Table.exe
+E:\My Documents\Programming Basics - май 2015\22 май 2015\PrimitiveDatTypesAndVariables-Homework\14. Print-the-ASCII-Table\obj\Debug\_14.Print_the_ASCII_Table.pdb
+D:\Documents\Programming Basics - май 2015\03. Primitive-Data-Types-and-Variables - 22 май 2015\PrimitiveDatTypesAndVariables-Homework\14. Print-the-ASCII-Table\bin\Debug\_14.Print_the_ASCII_Table.exe.config
+D:\Documents\Programming Basics - май 2015\03. Primitive-Data-Types-and-Variables - 22 май 2015\PrimitiveDatTypesAndVariables-Homework\14. Print-the-ASCII-Table\obj\Debug\_14.Print_the_ASCII_Table.exe
+D:\Documents\Programming Basics - май 2015\03. Primitive-Data-Types-and-Variables - 22 май 2015\PrimitiveDatTypesAndVariables-Homework\14. Print-the-ASCII-Table\obj\Debug\_14.Print_the_ASCII_Table.pdb
+D:\Documents\Programming Basics - май 2015\03. Primitive-Data-Types-and-Variables - 22 май 2015\PrimitiveDatTypesAndVariables-Homework\14. Print-the-ASCII-Table\bin\Debug\_14.Print_the_ASCII_Table.exe
+D:\Documents\Programming Basics - май 2015\03. Primitive-Data-Types-and-Variables - 22 май 2015\PrimitiveDatTypesAndVariables-Homework\14. Print-the-ASCII-Table\bin\Debug\_14.Print_the_ASCII_Table.pdb
+D:\Documents\Programming Basics - май 2015\03. Primitive-Data-Types-and-Variables - 22 май 2015\PrimitiveDatTypesAndVariables-Homework\14. Print-the-ASCII-Table\obj\Debug\14. Print-the-ASCII-Table.csprojResolveAssemblyReference.cache
