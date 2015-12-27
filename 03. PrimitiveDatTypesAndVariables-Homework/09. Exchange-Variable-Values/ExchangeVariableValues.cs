@@ -9,7 +9,7 @@ class ExchangeVariableValues
         Console.WriteLine("Before: \n a={0} \n b={1}", a, b);
         b = b - a;
         a = b + a;
-        Console.WriteLine("Before: \n a={0} \n b={1}", a, b);
+        Console.WriteLine("After: \n a={0} \n b={1}", a, b);
     }
 }
 
